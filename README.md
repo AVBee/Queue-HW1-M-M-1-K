@@ -7,7 +7,7 @@ Initial Release : March 28, 2017
 -------------------------
 Last Update     : March 31, 2017
 -------------------------
-https://github.com/AVBee/Queue-HW1-M-M-1-K/edit/master/README.md
+https://github.com/AVBee/Queue-HW1-M-M-1-K/
 
 
 README
