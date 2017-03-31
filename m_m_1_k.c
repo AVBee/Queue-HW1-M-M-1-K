@@ -1,3 +1,7 @@
+#AVBee rev. 1
+# March 31, 2017
+
+
 #include <stdio.h>
 #include <math.h>
 
